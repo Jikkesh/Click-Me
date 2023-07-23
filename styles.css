@@ -1,0 +1,34 @@
+*{
+    background-color: black;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 50px;
+    border: white;
+    border-style: dashed;
+    width: 55%;
+    margin-block-end: 0 auto;
+    padding: 20px;
+}
+div{
+    margin-top: 200px;
+    background-color:black;
+    border-radius: 20px;
+    align-items: center;
+    display:block;
+    margin: 0 auto;
+
+}
+h2{
+    color: chocolate;
+    font-family: monospace;
+    text-align: center;
+    font-size:xxx-large;
+}
+p{
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
